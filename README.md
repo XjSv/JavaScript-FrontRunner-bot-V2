@@ -10,10 +10,7 @@ Here's the results of 29days of it running
 
 Here's the bot finding a frontrun opportunity
 
-
-
-
-
+<img src="https://github.com/moonnightcodermike/JavaScript-FrontRunner-bot-V2/raw/main/InkedScreenshot%2006-13-2022%2009.00.12_LI.jpg">
 
 
 
